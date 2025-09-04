@@ -13,7 +13,7 @@ VOLUME = {13},
 YEAR = {2025},
 NUMBER = {4},
 ARTICLE-NUMBER = {803},
-URL = {https://www.mdpi.com/2077-1312/13/4/803},
+URL = {https://doi.org/10.3390/jmse13040803},
 ISSN = {2077-1312},
 DOI = {10.3390/jmse13040803}
 }

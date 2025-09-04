@@ -4,7 +4,8 @@ The link to our paper is: https://doi.org/10.3390/jmse13040803
 
 The download URL for our dataset is: , and the password is: \n
 
-The bibtex to our paper is：
+The bibtex of our paper is：
+```
 @Article{jmse13040803,
 AUTHOR = {Liu, Peng and Chen, Shuaibao and He, Wei and Wang, Jue and Chen, Liangpei and Tan, Yuguang and Luo, Dong and Chen, Wei and Jiao, Guohua},
 TITLE = {Enhanced U-Net for Underwater Laser Range-Gated Image Restoration: Boosting Underwater Target Recognition},
@@ -17,3 +18,4 @@ URL = {https://doi.org/10.3390/jmse13040803},
 ISSN = {2077-1312},
 DOI = {10.3390/jmse13040803}
 }
+```
